@@ -6,3 +6,4 @@ Contenido del Lunes:
 M5- 01 - Python Notebook
 MS. 02 - Condicionales, if, else
 MS. 03 - Bucles, for, while.
+En el segundo día, Martes hemos estudiado la librería "Pandas" y realizado ejercicios prácticos con el dataset "SpaceX". Ambos archivos, con soluciones, se encuentran en la carpeta con el nombre del segundo día de la semana.
