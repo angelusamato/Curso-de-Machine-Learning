@@ -14,3 +14,10 @@ En el segundo día, Martes hemos estudiado la librería
 - SpaceX".
 
 Ambos archivos, con soluciones, se encuentran en la carpeta con el nombre del segundo día de la semana.
+
+Miércoles. Contenido trabajado y reflejado en los archivos:
+
+- Archivo nº 1. Introducción al Machihe Learning con Scikit.
+- Archivo nº 2. Prophet: Predecir el valor de Bitcoin.
+- Archivo nº 3. Folium.
+- 
