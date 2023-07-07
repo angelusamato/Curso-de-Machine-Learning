@@ -20,4 +20,8 @@ Miércoles. Contenido trabajado y reflejado en los archivos:
 - Archivo nº 1. Introducción al Machihe Learning con Scikit.
 - Archivo nº 2. Prophet: Predecir el valor de Bitcoin.
 - Archivo nº 3. Folium.
-  
+
+Jueves. Adición de dos nuevos archivos en el contexto del entrenamiento en Machine Learning y representaciones con mapas en Folium, respectivamente. Los artículos trabajados son los siguientes:
+
+- M5 - SPACEX2- Machine Learning Predicciones
+- M5 - SPACEX2- Interactive visual analysis con Folium.
