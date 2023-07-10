@@ -25,3 +25,7 @@ Jueves. Adición de dos nuevos archivos en el contexto del entrenamiento en Mach
 
 - M5 - SPACEX2- Machine Learning Predicciones
 - M5 - SPACEX2- Interactive visual analysis con Folium.
+
+Contenido añadido para el Viernes:
+
+- SpaceX - Data Visualization
