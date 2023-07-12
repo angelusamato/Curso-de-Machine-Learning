@@ -29,3 +29,12 @@ Jueves. Adición de dos nuevos archivos en el contexto del entrenamiento en Mach
 Contenido añadido para el Viernes:
 
 - SpaceX - Data Visualization
+
+Semana de estudio en remoto:
+
+ Lunes Remoto:
+- M6 - 01 - Funciones
+- M6 - 02 - Clases
+
+Martes Remoto:
+- M6 - 04 - Programación Funcional
