@@ -38,3 +38,11 @@ Semana de estudio en remoto:
 
 Martes Remoto:
 - M6 - 04 - Programación Funcional
+
+Miércoles Remoto:
+
+- M6 - 05 - SparkSession Teoría
+
+- M6 - 06 - Primer RDD Teoría
+
+- M6 - 07 - Transformaciones y Acciones sobre RDDs
